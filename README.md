@@ -1,4 +1,7 @@
 # udacity_sf_crimes
+
+![Udacity Nano Degree](images/certificate.png)
+
 Provide statistical analyses of the data using Apache Spark Structured Streaming
 
 
